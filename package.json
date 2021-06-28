@@ -16,6 +16,6 @@
     "eslint-plugin-import": "^2.23.4"
   },
   "dependencies": {
-    "rocket-booster": "^1.2.0"
+    "rocket-booster": "^1.2.1"
   }
 }
