@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/booster-labs/rocket-booster/master/.github/img/header.png)
+![Header](https://raw.githubusercontent.com/booster-labs/rocket-booster/master/.github/img/header.jpg)
 
 :rocket: The template to kickstart rocket-booster workers. The `src/index.js` file contains the code and configuration of the template. Documentation and examples for `rocket-booster` can be found [here](https://github.com/booster-labs/rocket-booster).
 
