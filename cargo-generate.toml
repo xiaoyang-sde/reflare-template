@@ -1,2 +1,2 @@
 [template]
-exclude = ['deploy.yml']
+exclude = ['deploy.yml', 'node.yml']
